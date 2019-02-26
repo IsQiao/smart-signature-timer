@@ -6,3 +6,5 @@ smart-signature-timer/bin/
 smart-signature-timer/obj/
 
 smart-signature-timer/Properties/PublishProfiles/
+
+\.idea/\.idea\.smart-signature-timer/\.idea/

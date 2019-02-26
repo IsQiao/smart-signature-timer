@@ -80,7 +80,7 @@ namespace smart_signature_timer.Jobs
                                 {
                                     action_pos_Row.Value = act.account_action_seq.ToString();
                                 }
-                                continue;
+                                break;
                         }
                         db.SaveChanges();
                     }
